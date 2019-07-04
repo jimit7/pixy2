@@ -9,5 +9,5 @@ This directory contains:
 /src/device - this directory contains code (firmware) that runs on the Pixy2 device.
 
 /src/host - this directory contains code that runs on the host computer.
-(Windows PC, Linux PC, Mac)
+
 
