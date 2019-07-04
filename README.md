@@ -1,4 +1,4 @@
-Pixy2 README
+Pixy2 README.
 
 This directory contains:
 
